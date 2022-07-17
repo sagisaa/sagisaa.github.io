@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sagi Saadon"
-  avatar           : "profile_academic.png"
+  avatar           : "profile_academic.jpg"
   bio              : "Computer Science"
   location         : "Ben Gurion University"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
