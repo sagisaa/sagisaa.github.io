@@ -1,7 +1,7 @@
 ---
 title: "Learning and Characterizing FOLAs"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-07-18-learning_fola
 excerpt: 'Learning and Characterizing Fully-Ordered Lattice Automata.'
 date: 2022-07-18
 venue: 'ATVA'
