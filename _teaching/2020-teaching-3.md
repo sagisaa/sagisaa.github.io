@@ -1,14 +1,14 @@
 ---
-title: "Introduction to Logic and Set Theory"
+title: "Introduction to Computer Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-teaching-1
+permalink: /teaching/2020-teaching-3
 venue: "Ben Gurion University, NewStart Program"
-date: 2019-01-01
+date: 2020-01-01
 location: "Beer Sheva, Israel"
 ---
 
-Teaching assistant in Introduction to Logic and Set Theory in the NewStart program.
+Teaching Introduction to Computer Science in the NewStart program (2020, 2021).
 
 <!-- Heading 1
 ======
